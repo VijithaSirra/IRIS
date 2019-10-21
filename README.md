@@ -1,8 +1,11 @@
+IRIS DataSet
 ![](iris.png)
 
 This is a famous dataset and a simple basic project. it contains 3 species of IRIS flowers and its measurement.
 
+
 basically the IRIS family looks alike but the shapes are different .And we are here to predict the flower type by the lenght width of the sepal and petal . 
+
 Here data contains 50 dimensions of each flower . the shape of dataa set is(150,6) including index 
 
 Attribute Information:
@@ -12,8 +15,11 @@ Attribute Information:
 3. petal length in cm 
 4. petal width in cm 
 5. class: 
--- Iris Setosa 
--- Iris Versicolour 
+
+-- Iris Setosa
+
+-- Iris Versicolour
+
 -- Iris Virginica
 
 Predicted attribute: Species of iris plant. 
