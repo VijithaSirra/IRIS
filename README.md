@@ -1,10 +1,10 @@
 IRIS DataSet
 ![](iris.png)
 
-This is a famous dataset and a simple basic project. it contains 3 species of IRIS flowers and its measurement.
+This is a famous dataset and a simple basic project. it contains 3 species of IRIS flowers and its measurements.
 
 
-basically the IRIS family looks alike but the shapes are different .And we are here to predict the flower type by the lenght width of the sepal and petal . 
+basically the IRIS family looks alike but the shapes are different .And we are here to predict the flower type by the length width of the sepal and petal . 
 
 The data set contains 3 Species of 50 instances each.
 
@@ -15,7 +15,7 @@ Attribute Information:
 2. sepal width in cm 
 3. petal length in cm 
 4. petal width in cm 
-5. class: 
+5. Species: 
 
 -- Iris Setosa
 
