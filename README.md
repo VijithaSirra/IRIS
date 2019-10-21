@@ -6,7 +6,8 @@ This is a famous dataset and a simple basic project. it contains 3 species of IR
 
 basically the IRIS family looks alike but the shapes are different .And we are here to predict the flower type by the lenght width of the sepal and petal . 
 
-Here data contains 50 dimensions of each flower . the shape of dataa set is(150,6) including index 
+The data set contains 3 Species of 50 instances each.
+
 
 Attribute Information:
 
